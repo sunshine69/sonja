@@ -6,10 +6,10 @@ import (
 	b64 "encoding/base64"
 	"fmt"
 
-	"github.com/nikolalohinski/gonja/v2"
-	"github.com/nikolalohinski/gonja/v2/config"
-	"github.com/nikolalohinski/gonja/v2/exec"
-	"github.com/nikolalohinski/gonja/v2/loaders"
+	"github.com/sunshine69/gonja/v2"
+	"github.com/sunshine69/gonja/v2/config"
+	"github.com/sunshine69/gonja/v2/exec"
+	"github.com/sunshine69/gonja/v2/loaders"
 	"github.com/pkg/errors"
 )
 

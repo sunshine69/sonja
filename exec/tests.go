@@ -5,7 +5,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/nikolalohinski/gonja/v2/nodes"
+	"github.com/sunshine69/gonja/v2/nodes"
 )
 
 // TestFunction is the type test functions must fulfil

@@ -6,10 +6,10 @@ import (
 	"regexp"
 	"strings"
 
-	"github.com/nikolalohinski/gonja/v2/config"
-	"github.com/nikolalohinski/gonja/v2/loaders"
-	"github.com/nikolalohinski/gonja/v2/nodes"
-	"github.com/nikolalohinski/gonja/v2/tokens"
+	"github.com/sunshine69/gonja/v2/config"
+	"github.com/sunshine69/gonja/v2/loaders"
+	"github.com/sunshine69/gonja/v2/nodes"
+	"github.com/sunshine69/gonja/v2/tokens"
 )
 
 var (

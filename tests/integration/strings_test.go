@@ -2,9 +2,9 @@ package integration_test
 
 import (
 	"github.com/MakeNowJust/heredoc"
-	"github.com/nikolalohinski/gonja/v2"
-	"github.com/nikolalohinski/gonja/v2/exec"
-	"github.com/nikolalohinski/gonja/v2/loaders"
+	"github.com/sunshine69/gonja/v2"
+	"github.com/sunshine69/gonja/v2/exec"
+	"github.com/sunshine69/gonja/v2/loaders"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

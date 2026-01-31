@@ -3,8 +3,8 @@ package main
 import (
 	"os"
 
-	"github.com/nikolalohinski/gonja/v2"
-	"github.com/nikolalohinski/gonja/v2/exec"
+	"github.com/sunshine69/gonja/v2"
+	"github.com/sunshine69/gonja/v2/exec"
 )
 
 func main() {

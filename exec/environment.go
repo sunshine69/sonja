@@ -3,7 +3,7 @@ package exec
 import (
 	"sync"
 
-	"github.com/nikolalohinski/gonja/v2/parser"
+	"github.com/sunshine69/gonja/v2/parser"
 	"github.com/pkg/errors"
 )
 

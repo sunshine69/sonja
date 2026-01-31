@@ -1,7 +1,7 @@
 package exec
 
 import (
-	"github.com/nikolalohinski/gonja/v2/nodes"
+	"github.com/sunshine69/gonja/v2/nodes"
 )
 
 type ControlStructure interface {
