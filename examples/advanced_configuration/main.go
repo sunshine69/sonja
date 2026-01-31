@@ -6,10 +6,10 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/sunshine69/gonja/v2/builtins"
-	"github.com/sunshine69/gonja/v2/config"
-	"github.com/sunshine69/gonja/v2/exec"
-	"github.com/sunshine69/gonja/v2/loaders"
+	"github.com/sunshine69/sonja/v2/builtins"
+	"github.com/sunshine69/sonja/v2/config"
+	"github.com/sunshine69/sonja/v2/exec"
+	"github.com/sunshine69/sonja/v2/loaders"
 )
 
 func main() {

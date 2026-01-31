@@ -1,8 +1,8 @@
 package builtins
 
 import (
-	methods "github.com/sunshine69/gonja/v2/builtins/methods"
-	"github.com/sunshine69/gonja/v2/exec"
+	methods "github.com/sunshine69/sonja/v2/builtins/methods"
+	"github.com/sunshine69/sonja/v2/exec"
 )
 
 // ControlStructures exports all builtins controlStructures

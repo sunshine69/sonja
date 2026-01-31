@@ -1,4 +1,4 @@
-module github.com/sunshine69/gonja/v2
+module github.com/sunshine69/sonja/v2
 
 go 1.24.4
 

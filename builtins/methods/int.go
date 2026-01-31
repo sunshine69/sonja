@@ -1,8 +1,8 @@
 package methods
 
 import (
-	"github.com/sunshine69/gonja/v2/builtins/methods/pyint"
-	. "github.com/sunshine69/gonja/v2/exec"
+	"github.com/sunshine69/sonja/v2/builtins/methods/pyint"
+	. "github.com/sunshine69/sonja/v2/exec"
 )
 
 var intMethods = NewMethodSet[int](map[string]Method[int]{

@@ -1,8 +1,8 @@
 package builtins
 
 import (
-	"github.com/sunshine69/gonja/v2/exec"
-	"github.com/sunshine69/gonja/v2/utils"
+	"github.com/sunshine69/sonja/v2/exec"
+	"github.com/sunshine69/sonja/v2/utils"
 	"github.com/pkg/errors"
 )
 

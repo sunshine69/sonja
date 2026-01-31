@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/sunshine69/gonja/v2/exec"
+	"github.com/sunshine69/sonja/v2/exec"
 )
 
 var Tests = exec.NewTestSet(map[string]exec.TestFunction{

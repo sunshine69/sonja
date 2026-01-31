@@ -5,7 +5,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/sunshine69/gonja/v2/nodes"
+	"github.com/sunshine69/sonja/v2/nodes"
 )
 
 // FilterFunction is the type filter functions must fulfil

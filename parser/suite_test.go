@@ -4,8 +4,8 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/sunshine69/gonja/v2/nodes"
-	"github.com/sunshine69/gonja/v2/tokens"
+	"github.com/sunshine69/sonja/v2/nodes"
+	"github.com/sunshine69/sonja/v2/tokens"
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"
 

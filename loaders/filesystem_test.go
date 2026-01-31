@@ -5,7 +5,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/sunshine69/gonja/v2/loaders"
+	"github.com/sunshine69/sonja/v2/loaders"
 
 	. "github.com/onsi/ginkgo/v2"
 	. "github.com/onsi/gomega"

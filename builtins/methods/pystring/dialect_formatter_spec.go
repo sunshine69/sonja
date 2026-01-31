@@ -8,7 +8,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/sunshine69/gonja/v2/builtins/methods/pyerrors"
+	"github.com/sunshine69/sonja/v2/builtins/methods/pyerrors"
 	"golang.org/x/exp/utf8string"
 )
 

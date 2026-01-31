@@ -3,10 +3,10 @@ package controlStructures
 import (
 	"fmt"
 
-	"github.com/sunshine69/gonja/v2/exec"
-	"github.com/sunshine69/gonja/v2/nodes"
-	"github.com/sunshine69/gonja/v2/parser"
-	"github.com/sunshine69/gonja/v2/tokens"
+	"github.com/sunshine69/sonja/v2/exec"
+	"github.com/sunshine69/sonja/v2/nodes"
+	"github.com/sunshine69/sonja/v2/parser"
+	"github.com/sunshine69/sonja/v2/tokens"
 	"github.com/pkg/errors"
 )
 

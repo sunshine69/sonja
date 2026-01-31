@@ -8,11 +8,11 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/sunshine69/gonja/v2/config"
-	"github.com/sunshine69/gonja/v2/loaders"
-	"github.com/sunshine69/gonja/v2/nodes"
-	"github.com/sunshine69/gonja/v2/parser"
-	"github.com/sunshine69/gonja/v2/tokens"
+	"github.com/sunshine69/sonja/v2/config"
+	"github.com/sunshine69/sonja/v2/loaders"
+	"github.com/sunshine69/sonja/v2/nodes"
+	"github.com/sunshine69/sonja/v2/parser"
+	"github.com/sunshine69/sonja/v2/tokens"
 )
 
 type Template struct {

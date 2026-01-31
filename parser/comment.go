@@ -3,8 +3,8 @@ package parser
 import (
 	"fmt"
 
-	"github.com/sunshine69/gonja/v2/nodes"
-	"github.com/sunshine69/gonja/v2/tokens"
+	"github.com/sunshine69/sonja/v2/nodes"
+	"github.com/sunshine69/sonja/v2/tokens"
 	log "github.com/sirupsen/logrus"
 )
 

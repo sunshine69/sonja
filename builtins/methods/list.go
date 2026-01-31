@@ -3,7 +3,7 @@ package methods
 import (
 	"reflect"
 
-	. "github.com/sunshine69/gonja/v2/exec"
+	. "github.com/sunshine69/sonja/v2/exec"
 )
 
 var listMethods = NewMethodSet[[]interface{}](map[string]Method[[]interface{}]{

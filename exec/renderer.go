@@ -6,9 +6,9 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/sunshine69/gonja/v2/config"
-	"github.com/sunshine69/gonja/v2/loaders"
-	"github.com/sunshine69/gonja/v2/nodes"
+	"github.com/sunshine69/sonja/v2/config"
+	"github.com/sunshine69/sonja/v2/loaders"
+	"github.com/sunshine69/sonja/v2/nodes"
 )
 
 // Renderer is a node visitor in charge of rendering

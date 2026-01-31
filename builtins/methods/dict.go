@@ -3,7 +3,7 @@ package methods
 import (
 	"sort"
 
-	. "github.com/sunshine69/gonja/v2/exec"
+	. "github.com/sunshine69/sonja/v2/exec"
 )
 
 var dictMethods = NewMethodSet[map[string]interface{}](map[string]Method[map[string]interface{}]{
