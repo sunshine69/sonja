@@ -61,7 +61,7 @@ func (r *Renderer) Visit(node nodes.Node) (nodes.Visitor, error) {
 		return nil, nil
 	case *nodes.Data:
 		output := n.Data.Val
-		if n.RemoveFirstLineReturn && (output[0:1] == "\n" || output[0:2] == "\r\n") {
+		if n.RemoveFirstLineReturn && (output[0:1] == "\n" || output[0:1] == "\r\n") {
 			output = output[1:]
 		}
 		if n.Trim.Left {
